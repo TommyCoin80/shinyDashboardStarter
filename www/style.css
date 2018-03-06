@@ -1,0 +1,44 @@
+.main-sidebar {
+  width:50px!important;
+}
+
+.logo {
+  width: 50px!important;
+}
+
+nav.navbar {
+  display:none;
+}
+
+body, text, .main-header .logo, .box-header .box-title {
+  font-family: "Play", Arial;
+}
+
+.form-control {
+  border-radius: 4px;
+}
+
+
+.btn-default {
+  overflow:hidden;
+}
+
+.progress {
+  margin-bottom:0px;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+  font-family: "Play", Arial;
+}
+
+.nav-tabs-custom {
+  margin-bottom:0px;
+}
+
+.downloadButton {
+  width:100%;
+}
+
+.skin-blue .sidebar-menu>li>.treeview-menu {
+  margin-top:-1px;
+}
