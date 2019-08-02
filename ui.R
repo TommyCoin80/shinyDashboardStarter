@@ -28,8 +28,7 @@ dashboardPage(
     ),
     tabItems(
       tabItem(
-        tabName = "subItemTab",
-        box()
+        tabName = "subItemTab"
       )
     )
   )
